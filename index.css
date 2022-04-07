@@ -1,0 +1,33 @@
+
+body {
+    width:78%;
+    height: 100%;
+    font-size: 13px;
+    font-style: italic;
+    background-color: bisque;
+ }
+
+ h1{
+     color: #733C3C;
+ }
+
+ nav{
+     color:#DD4A48;
+    margin-left: 10cm;
+ }
+
+ h2{
+     font-size: 14px;
+   color:white;
+   background-color: #DD4A48;
+   border-radius: 12px;
+   display: inline-block;
+ }
+
+ section{
+    font-style: italic;
+    display: inline-block;
+     margin-left: 9.5cm;
+
+ }
+
